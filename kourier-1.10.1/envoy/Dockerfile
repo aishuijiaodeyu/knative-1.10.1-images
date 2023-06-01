@@ -1,0 +1,1 @@
+from docker.io/envoyproxy/envoy:v1.23-latest
