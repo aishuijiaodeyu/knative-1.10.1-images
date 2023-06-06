@@ -1,1 +1,1 @@
-from gcr.io/knative-samples/autoscale-go:0.1
+from ghcr.io/knative/autoscale-go:latest
